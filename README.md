@@ -3,7 +3,7 @@ A super simple CLI written in Go. I built this tool to check the latest numbers 
 
 ## How-to
 
-### Clone the project to #GOPATH/src
+#### Clone the project to $GOPATH/src
 
 Run:
 
